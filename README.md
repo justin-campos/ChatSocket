@@ -19,7 +19,7 @@ Esta aplicación proporciona una plataforma de chat en tiempo real donde los usu
 
 ## Captura de pantalla
 
-![Chat]()
+![Chat](https://raw.githubusercontent.com/justin-campos/ChatSocket/master/src/main/resources/static/img/ChatScreenshot.PNG)
 
 ## Configuración
 
